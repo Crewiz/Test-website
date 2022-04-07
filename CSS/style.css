@@ -64,7 +64,6 @@ div#main {
     background-color: #b8d9ff;
     border: 3px solid black;
     margin-top: 2em;
-    display: inline;
 }
 div#sidebar {
     width: 29%;
@@ -72,5 +71,4 @@ div#sidebar {
     background-color: #b8d9ff;
     border: 3px solid black;
     margin-top: 2em;
-    display: inline;
 }
